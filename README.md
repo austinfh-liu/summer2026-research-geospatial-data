@@ -1,4 +1,4 @@
-## Step 4 – Missing Data Imputation
+## Using the Imputation Scripts
 
 Before running the imputation scripts, make sure the following Python packages are installed:
 
