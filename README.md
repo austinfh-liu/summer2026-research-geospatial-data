@@ -38,4 +38,4 @@ The final CSV includes the processed observations along with information that ca
 * Standard deviation
 * Additional metadata and summary statistics
 
-The resulting CSV can then be used for further analysis or combined with the processed datasets from the rest of the project.
+The resulting CSV can then be used for further analysis.
