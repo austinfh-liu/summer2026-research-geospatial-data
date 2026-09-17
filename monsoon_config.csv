@@ -1,0 +1,11 @@
+Country,Has_Monsoon,Monsoon_Months
+Afghanistan,True,"7,8"
+Afganistan,True,"7,8"
+B&H,False,
+DRC,True,"1,2,3,4,10,11,12"
+Ethiopia,True,"6,7,8,9"
+Kenya,True,"3,4,5,10,11"
+Pakistan,True,"7,8,9"
+South Africa,False,
+Syria,False,
+Uganda,True,"3,4,5,9,10,11"
